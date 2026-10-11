@@ -79,3 +79,38 @@
 .lab-contact-panel { margin:2.8rem 0 1rem; background:linear-gradient(135deg,#f6f9fc,#edf3f9); }
 @media (max-width:900px){ .research-card-grid,.feature-grid{grid-template-columns:repeat(2,minmax(0,1fr));}.lab-hero{padding:2.4rem 2rem;} }
 @media (max-width:600px){ .research-card-grid,.feature-grid,.lab-home-split{grid-template-columns:1fr;}.research-card{height:235px;}.lab-hero{padding:2rem 1.35rem;border-radius:16px;}.current-research-block{padding:1.2rem;} }
+/* Fix text contrast in homepage panels */
+.lab-home-split > div,
+.lab-contact-panel {
+  color: #243b53 !important;
+}
+
+.lab-home-split > div p,
+.lab-contact-panel p,
+.lab-contact-panel strong {
+  color: #334e68 !important;
+}
+
+.lab-home-split h2,
+.lab-contact-panel h2 {
+  color: #17365d !important;
+}
+
+.lab-home-split .lab-text-link,
+.lab-contact-panel .lab-text-link {
+  color: #245b87 !important;
+}
+
+/* Maintain readable text in dark mode */
+@media (prefers-color-scheme: dark) {
+  .lab-home-split > div,
+  .lab-contact-panel {
+    color: #243b53 !important;
+  }
+
+  .lab-home-split > div p,
+  .lab-contact-panel p,
+  .lab-contact-panel strong {
+    color: #334e68 !important;
+  }
+}
