@@ -1,0 +1,18 @@
+main:
+  - title: "Home"
+    url: /
+
+  - title: "Research"
+    url: /research/
+
+  - title: "People"
+    url: /people/
+
+  - title: "Publications"
+    url: "https://dacians15.github.io/martins-lab.github.io/publications-test/"
+
+  - title: "Opportunities"
+    url: /opportunities/
+
+  - title: "Contact"
+    url: /contact/
