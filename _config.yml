@@ -6,7 +6,7 @@ title_separator          : "-"
 name                     : &name "Martin Research Lab"
 description              : &description "Psychosis, social cognition, ageing, and mental health research at the University of Kent"
 url                      : https://dacians15.github.io
-baseurl                  : "/martins-lab.github.io"
+baseurl                  : "/MartinsLab"
 repository               : "DacianS15/martins-lab.github.io"
 
 author:
