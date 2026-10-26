@@ -211,7 +211,27 @@ Manal collaborates with researchers at King's College London to investigate the 
 **Research Assistant, BSc Psychology**  
 *University of Kent*
 
-Henry Smedley is a Research Assistant within the Martin Research Lab at the University of Kent.
+Henry Smedley is a current undergraduate at the University of Kent. Previously a research 
+assistant of Professor Andrew Martin, his current research focuses on the perceived social, 
+cognitive, and physical benefits of traditional martial arts, as well as the effects of exercise 
+groups in managing and reducing the symptoms of the perimenopause.
+
+His current research has mainly taken the form of qualitative methods, utilizing focus groups 
+and semi structured interviews, though he works alongside other masters and PhD candidates 
+utilizing neuroimaging and neurofeedback methods including fNIRS and EEG; as well as brain 
+stimulation such as tDCS 
+
+Research Interests:
+- Traditional Martial Arts’ effect on executive function 
+- The mechanisms of focused movement that facilitate cognitive improvement 
+- Social belonging and identity 
+- Neurofeedback and neuroimaging 
+- Cognitive neuroscience 
+
+Current Research 
+- The perceived social, cognitive, and physical benefits of traditional martial arts
+- The Perceived effects of exercise groups in managing and reducing the effects of the 
+perimenopause 
 
 ### Contact
 
@@ -257,6 +277,14 @@ Amber's current research examines subjective experiences of time and their relat
 - [LinkedIn](https://www.linkedin.com/in/amber-pryke)
 - [Google Scholar](https://scholar.google.com/citations?user=cDn0nzsAAAAJ&hl=en)
 - **Email:** [ap890@kent.ac.uk](mailto:ap890@kent.ac.uk)
+
+### Bal Dosanjh
+
+**MSc Cognitive Psychology and Neuropsychology**  
+*University of Kent* 
+
+
+
 
 ## Current PhD Students
 
