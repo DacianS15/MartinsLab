@@ -283,6 +283,23 @@ Amber's current research examines subjective experiences of time and their relat
 **MSc Cognitive Psychology and Neuropsychology**  
 *University of Kent* 
 
+Bal is a current postgraduate student, and previously completed a BSc in Clinical Psychology at the University of Kent. She has collaborated with a placement student on a compelling study focused on the relationship between student athletes in martial arts and executive function. Bal aims to conduct her MSc research on the relationship between cognition and AI. Her achievements include the completion of a summer school program at Aarhus University, where she gained valuable experience in a psychobiological-focused lab environment, as well as attended a symposium and presented research titled “Esketamine alleviates postoperative depression-like behaviours in mouse prefrontal cortex”.
+
+Research interests:
+- Cognitive neuroscience 
+- Neurotechnology & ethics 
+- Neurodegeneration 
+- Sports psychology 
+
+Previous research:
+- The perceived social, cognitive and physical benefits of traditional martial arts 
+- Are familiar thoughts within our control? An ERP investigation into memory suppression 
+
+Links
+- Email: bk334@kent.ac.uk
+- Linkedin: https://www.linkedin.com/in/balpreet-dosanjh-7bb740318?utm_source=share_via&utm_content=profile&utm_medium=member_ios
+
+
 
 
 
